@@ -20,11 +20,10 @@
 
 📂 Featured Projects
 
-
-| [ScholarRide](https://github.com/BongaG/ScholarRide) | Student transport update web app | Python, Flask, HTML, CSS |
-| [Explore Durban](https://github.com/BongaG/Explore-Durban) | Tourist attractions guide for Durban | HTML, CSS, JavaScript |
-| [UrbanTaste](https://github.com/BongaG/UrbanTaste) | Local restaurant and food discovery app | HTML, CSS, JavaScript |
-
+| Brain-Friend | Cognitive support & memory aid app for students with cognitive disabilities | Java, Android, SQL |
+| ScholarRide | Student transport update web app | Python, Flask, HTML, CSS |
+| Explore Durban | Tourist attractions guide for Durban | HTML, CSS, JavaScript |
+| UrbanTaste | Local restaurant and food discovery app | HTML, CSS, JavaScript |
 
 📜 Professional Development
 
