@@ -28,7 +28,7 @@
 ### 💼 Experience
 
 **Software Developer, Idlelo Lesizwe Financial Cooperative** *(Jun 2025 to Present)*  
-Full-stack membership platform with a public site, member portal and staff admin dashboard. Includes two-factor authentication, encrypted ID data, FICA document review workflows and role-based access. Live in production.
+Full-stack membership platform with a public site, member portal and staff admin dashboard. Includes two-factor authentication, encrypted ID data, FICA document review workflows and role-based access. Live in production. Live at[idlelolesizwe.co.za](https://www.idlelolesizwe.co.za)
 
 **Software Developer, Imalifin Group (Freelance)** *(Sep 2026 to Present)*  
 Mobile-first website for a personal and business loans provider, built with Flask and MySQL, with secure authentication and 2FA. Live at [imalif.co.za](https://imalif.co.za).
